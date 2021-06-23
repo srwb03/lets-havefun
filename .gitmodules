@@ -1,0 +1,3 @@
+[submodule "lets-havefun"]
+	path = lets-havefun
+	url = https://github.com/srwb03/lets-havefun.git
