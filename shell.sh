@@ -1,7 +1,6 @@
-#!/bin/sh
+#!bin/sh
+# This is a comment!
 
-# My first script
-
-echo "Hello World!"
-
-
+echo "myvar is: $myvar"
+myvar="hi there"
+echo "myvar is: $myvar"
