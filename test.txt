@@ -1,0 +1,3 @@
+hellooo 
+just testing 
+stdin
